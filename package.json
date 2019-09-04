@@ -1,0 +1,15 @@
+{
+  "name": "stanplan-scheduler",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node": "^12.2.0",
+    "path": "^0.12.7",
+    "python-shell": "^1.0.7"
+  },
+  "scripts": {
+    "start": "PORT=4000 NODE_PATH='src/' react-scripts start",
+    "test": "react-scripts test"
+  }
+}

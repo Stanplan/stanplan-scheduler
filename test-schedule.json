@@ -1,0 +1,162 @@
+[
+  {
+    "year": "2014-15",
+    "quarters": [
+      {
+        "quarter": "Autumn",
+        "units": 16,
+        "courses": [
+          {"code": "CS 106A", "units": 5},
+          {"code": "WAYS", "units": 3},
+          {"code": "THINK", "units": 4},
+          {"code": "PWR 1", "units" : 4}
+        ]
+      },
+
+      {
+        "quarter": "Winter",
+        "units": 15,
+        "courses": [
+          {"code": "WAYS", "units": 4},
+          {"code": "WAYS", "units": 5},
+          {"code": "WAYS", "units": 3},
+          {"code": "WAYS", "units": 3}
+        ]
+      },
+
+      {
+        "quarter": "Spring",
+        "units": 14,
+        "courses": [
+          {"code": "CS 106B", "units": 5},
+          {"code": "Intro Sem", "units": 3},
+          {"code": "WAYS", "units": 3},
+          {"code": "WAYS", "units": 3}
+        ]
+      },
+
+      {
+        "quarter": "Summer",
+        "units": 14,
+        "courses": [
+          {"code": "CS 106B", "units": 5},
+          {"code": "Intro Sem", "units": 3},
+          {"code": "WAYS", "units": 3},
+          {"code": "WAYS", "units": 3}
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2015-16",
+    "quarters": [
+      {
+        "quarter": "Autumn",
+        "units": 16,
+        "courses": [
+          {"code": "MATH 19", "units": 5},
+          {"code": "CS 103", "units": 5},
+          {"code": "WAYS", "units": 3},
+          {"code": "Language", "units": 5}
+        ]
+      },
+
+      {
+        "quarter": "Winter",
+        "units": 17,
+        "courses": [
+          {"code": "MATH 20", "units": 5},
+          {"code": "CS 109", "units": 5},
+          {"code": "Language", "units": 3},
+          {"code": "PWR 2", "units": 4}
+        ]
+      },
+
+      {
+        "quarter": "Spring",
+        "units": 17,
+        "courses": [
+          {"code": "MATH 21", "units": 5},
+          {"code": "CS 107", "units": 5},
+          {"code": "Language", "units": 5},
+          {"code": "WAYS", "units": 2}
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2016-17",
+    "quarters": [
+      {
+        "quarter": "Autumn",
+        "units": 17,
+        "courses": [
+          {"code": "PHYS 21", "units": 4},
+          {"code": "CS 110", "units": 5},
+          {"code": "CS 147", "units": 5},
+          {"code": "WAYS", "units": 3}
+        ]
+      },
+
+      {
+        "quarter": "Winter",
+        "units": 12,
+        "courses": [
+          {"code": "PHYS 23", "units": 4},
+          {"code": "CS 247", "units": 4},
+          {"code": "COMM 166", "units": 3},
+          {"code": "WAYS", "units": 3}
+        ]
+      },
+
+      {
+        "quarter": "Spring",
+        "units": 13,
+        "courses": [
+          {"code": "CS 161", "units": 5},
+          {"code": "OSP", "units": 3},
+          {"code": "OSP", "units": 4}
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2017-18",
+    "quarters": [
+      {
+        "quarter": "Autumn",
+        "units": 15,
+        "courses": [
+          {"code": "CS 148", "units": 4},
+          {"code": "WAYS", "units": 3},
+          {"code": "MATH 104", "units": 3},
+          {"code": "CS 181", "units": 4}
+        ]
+      },
+
+      {
+        "quarter": "Winter",
+        "units": 16,
+        "courses": [
+          {"code": "ENGR 40M", "units": 5},
+          {"code": "CS 210A", "units": 4},
+          {"code": "CS 108", "units": 5},
+          {"code": "MATH 108", "units": 3}
+        ]
+      },
+
+      {
+        "quarter": "Spring",
+        "units": 13,
+        "courses": [
+          {"code": "CS 142", "units": 3},
+          {"code": "CS 210B", "units": 4},
+          {"code": "COMM 140", "units": 3}
+        ]
+      }
+    ]
+  }
+]
